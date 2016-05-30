@@ -1,0 +1,24 @@
+{
+  "name": "shellflow",
+  "version": "0.0.1",
+  "description": "SSH commands workflow designer/executor using BPMN",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calbertts/shellflow.git"
+  },
+  "keywords": [
+    "ssh",
+    "workflow",
+    "commands"
+  ],
+  "author": "calbertts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calbertts/shellflow/issues"
+  },
+  "homepage": "https://github.com/calbertts/shellflow#readme"
+}
